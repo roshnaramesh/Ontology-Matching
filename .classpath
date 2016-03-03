@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="src/lib/jaws.jar"/>
+	<classpathentry kind="lib" path="src/lib/simmetrics.jar"/>
+	<classpathentry kind="lib" path="src/lib/gephi-toolkit.jar"/>
+	<classpathentry kind="lib" path="src/lib/elk.jar"/>
+	<classpathentry kind="lib" path="src/lib/owlapi.jar"/>
+	<classpathentry kind="lib" path="src/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="src/lib/microsoft-translator.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/roshnaramesh/Desktop/AML-Jar-master/AgreementMakerLight.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
